@@ -45,7 +45,7 @@
                 <string>software</string>
                 <key>title</key>
     <!-- 安装app时的提示信息 -->
-                <string>学分在线IOS版</string>
+                <string>学分在线</string>
             </dict>
         </dict>
     </array>
