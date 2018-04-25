@@ -37,7 +37,7 @@
             <dict>
                 <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-                <string>com.studybanks.app</string>
+                <string>com.studybanks.www</string>
                 <key>bundle-version</key>
     <!-- 版本号 -->
                 <string>1.0.1</string>
